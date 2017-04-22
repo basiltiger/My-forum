@@ -1,0 +1,9 @@
+
+.gitignore
+blog/
+db.sqlite3
+manage.py
+myvenv/
+static/
+templates/
+tigervision/
